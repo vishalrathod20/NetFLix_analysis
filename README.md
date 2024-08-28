@@ -24,8 +24,6 @@ The dataset used in this project contains information about Netflix’s content,
 - **NumPy**: For numerical computations and array operations.
 - **Matplotlib**: For creating visualizations and plots.
 - **Seaborn**: For statistical data visualization.
-- **Plotly**: For interactive plots.
-- **WordCloud**: To visualize popular actors and directors.
 
 ## Data Cleaning
 
