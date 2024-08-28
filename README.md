@@ -65,7 +65,7 @@ The analysis provides valuable insights into Netflix’s content strategy, highl
 
 ## How to Use
 
-1. Clone the repository: `git clone [repository link]`
+1. Clone the repository: `git clone [https://github.com/vishalrathod20/NetFLix_analysis.git]`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook Netflix_EDA.ipynb`
 
